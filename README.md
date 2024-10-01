@@ -7,13 +7,19 @@ There is a sample complete genome of Salmonella enterica named sequence.fasta wi
 
 To download run:
 
-```git clone https://github.com/TrStans606/rust_sliding_window_word_counter```
+```
+git clone https://github.com/TrStans606/rust_sliding_window_word_counter
+```
 
 and then:
 
-```cd Breadcrumbsrust_sliding_window_word_counter```
+```
+cd Breadcrumbsrust_sliding_window_word_counter
+```
 
 and then:
 
-```cargo run```
+```
+cargo run
+```
 
