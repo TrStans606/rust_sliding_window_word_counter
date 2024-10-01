@@ -14,7 +14,7 @@ git clone https://github.com/TrStans606/rust_sliding_window_word_counter
 and then:
 
 ```
-cd Breadcrumbsrust_sliding_window_word_counter
+cd rust_sliding_window_word_counter
 ```
 
 and then:
